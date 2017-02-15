@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+MPS15,s,2,15,150,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,9
+MPS15,s,2,15,150,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,1
+MPS15,s,2,15,150,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,8
+MPS15,s,2,15,150,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,14
+MPS15,s,2,15,150,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,10
+MPS15,s,2,15,150,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,7
+MPS15,s,2,15,150,False,Which island or islands is Vanuatu furthest from?,Tasmania,Tasmania
+MPS15,s,2,15,150,False,Which country claimed the Vanuatu islands first?,The Spanish,The Portuguese
+MPS15,s,2,15,150,False,In which island is the capital Port Vila?,Efate,Efate
+MPS15,s,2,15,150,False,The temperature of the ocean around Vanuatu is approximately,Between 22 centigrade and 28 centigrade,Between 22 centigrade and 28 centigrade
+MPS15,s,2,15,150,False,Vanuatu's Prime Minister is chosen:,At least three-quarters quorum in the parliament,By simple majority in the parliament
+MPS15,s,2,15,150,False,Which in the following list does not belong to the top four mainstays of the economy?,Meat processing,Meat processing
+MPS15,s,2,15,150,False,How many of the households in Vanuatu depend on subsistence fishing?,between 70% and 80%,about half
+MPS15,s,2,15,150,False,Which of the following factors is not a main deterrent for the development of Vanuatu?,Unstable political situation,Unstable political situation
+MPS15,s,2,15,150,False,
+

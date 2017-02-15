@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+2FQ2014,c,1,14,29,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,7
+2FQ2014,c,1,14,29,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,8
+2FQ2014,c,1,14,29,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,12
+2FQ2014,c,1,14,29,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,8
+2FQ2014,c,1,14,29,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,8
+2FQ2014,c,1,14,29,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,8
+2FQ2014,c,1,14,29,False,Which country does Laos not have a border with,Malaysia,Cambodia
+2FQ2014,c,1,14,29,False,How many kingdoms was the Lan Xang kingdom was split into in the 18th century?,Three,Three
+2FQ2014,c,1,14,29,False,What are the origins of Laos current government?,The Pathet Lao Guerrillas,The Pathet Lao Guerrillas
+2FQ2014,c,1,14,29,False,In what type of landscape do the ethnically dominant people of Laos live?,Interior Lowlands,Tropical Mountains
+2FQ2014,c,1,14,29,False,Which country is not in the top three trade nations with Laos?,Cambodia,China
+2FQ2014,c,1,14,29,False,Who determines the government policies in Laos?,The Prime Minister Thongsing Thammavong,Everyone in this list
+2FQ2014,c,1,14,29,False,The number of elected officials over the last twenty years has:,Increased to 132 members,Increased to 132 members
+2FQ2014,c,1,14,29,False,What is lam?,A music style,A music style
+2FQ2014,c,1,14,29,False,
+

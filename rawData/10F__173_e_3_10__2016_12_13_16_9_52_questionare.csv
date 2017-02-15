@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+10F,e,3,10,173,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,10
+10F,e,3,10,173,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,8
+10F,e,3,10,173,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,12
+10F,e,3,10,173,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,10
+10F,e,3,10,173,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,8
+10F,e,3,10,173,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,13
+10F,e,3,10,173,False,Which country does Suriname not have a border with,Venezuela,Venezuela
+10F,e,3,10,173,False,An English-based lingua franca used in Suriname is:,Sranang,Suringlish
+10F,e,3,10,173,False,Along which river was the earliest documented colony in Suriname?,The Suriname river,The Suriname river
+10F,e,3,10,173,False,When did full independence happened for Suriname?,In the decade of the 1970s,In the decade of the 1970s
+10F,e,3,10,173,False,Which two agricultural products are still a strong part of the economy?,Bananas and rice,Rice and sugar cane
+10F,e,3,10,173,False,The legislative branch of government consists of:,a 51-member unicameral Assembly,a 51-member unicameral Assembly
+10F,e,3,10,173,False,How is the President of Suriname elected:,With the vote of at least 34 members of the legislative body,With the vote of at least 34 members of the legislative body
+10F,e,3,10,173,False,The indigenous Amerindians constitute what part of the population:,Less than 4%,about 10.4%
+10F,e,3,10,173,False,
+

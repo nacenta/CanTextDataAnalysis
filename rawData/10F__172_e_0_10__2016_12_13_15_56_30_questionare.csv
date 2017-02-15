@@ -1,0 +1,13 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+10F,e,0,10,172,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,7
+10F,e,0,10,172,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,7
+10F,e,0,10,172,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,6
+10F,e,0,10,172,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,7
+10F,e,0,10,172,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,6
+10F,e,0,10,172,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,5
+10F,e,0,10,172,False,How many islands belong to Scotland,around 264,more than 790
+10F,e,0,10,172,False,The third largest city of Scotland is?,Dundee,Aberdeen
+10F,e,0,10,172,False,Scotland entered into a political union with England?,on 1 May 1707,on 1 May 1706
+10F,e,0,10,172,False,Scotland constitutes a distinct jurisdiction in:,public and private law,public and private law
+10F,e,0,10,172,False,
+

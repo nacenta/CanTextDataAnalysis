@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+2FS2116,e,4,16,47,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,7
+2FS2116,e,4,16,47,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,4
+2FS2116,e,4,16,47,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,6
+2FS2116,e,4,16,47,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,9
+2FS2116,e,4,16,47,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,10
+2FS2116,e,4,16,47,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,4
+2FS2116,e,4,16,47,False,Which of the following names was a previous name of Equatorial Guinea?,Spanish Guinea,Nueva Guinea
+2FS2116,e,4,16,47,False,How is the largest geographical region of Equatorial Guinea called?,R??o Mun??,Annob??n
+2FS2116,e,4,16,47,False,What kind of forest ecoregion does Equatorial Guinea not have?,Tropical grassland forests,Atlantic Equatorial coastal forests
+2FS2116,e,4,16,47,False,Which international newspaper reported that Equatorial Guinea's citizens are not benefiting from infrastructure improvements?,The Guardian,The Guardian
+2FS2116,e,4,16,47,False,Which language is used in the official currency of Equatorial Guinea?,French,French
+2FS2116,e,4,16,47,False,Where is the traditional demarcation line between Fang and inland ethnic groups?,All of these answers,Niefang
+2FS2116,e,4,16,47,False,Which percentage of the population comes from the Ndowe and Fernandinos ethnic groups (combined) in Equatorial Guinea?,Less than 10%,Less than 10%
+2FS2116,e,4,16,47,False,What effect has oil extraction had in the population of Malabo?,Doubling,Doubling
+2FS2116,e,4,16,47,False,
+

@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+9FH04,e,1,4,77,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,10
+9FH04,e,1,4,77,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,9
+9FH04,e,1,4,77,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,14
+9FH04,e,1,4,77,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,15
+9FH04,e,1,4,77,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,8
+9FH04,e,1,4,77,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,9
+9FH04,e,1,4,77,False,Which country does Laos not have a border with,Malaysia,Malaysia
+9FH04,e,1,4,77,False,How many kingdoms was the Lan Xang kingdom was split into in the 18th century?,Three,it was not split into Kingdoms
+9FH04,e,1,4,77,False,What are the origins of Laos current government?,The Pathet Lao Guerrillas,The Siam Independence Movement
+9FH04,e,1,4,77,False,In what type of landscape do the ethnically dominant people of Laos live?,Interior Lowlands,Coastal Rice Plains
+9FH04,e,1,4,77,False,Which country is not in the top three trade nations with Laos?,Cambodia,Cambodia
+9FH04,e,1,4,77,False,Who determines the government policies in Laos?,The Prime Minister Thongsing Thammavong,Everyone in this list
+9FH04,e,1,4,77,False,The number of elected officials over the last twenty years has:,Increased to 132 members,Increased to 132 members
+9FH04,e,1,4,77,False,What is lam?,A music style,Jasmine rice
+9FH04,e,1,4,77,False,
+

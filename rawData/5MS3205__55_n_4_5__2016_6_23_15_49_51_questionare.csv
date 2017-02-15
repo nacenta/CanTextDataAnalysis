@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+5MS3205,n,4,5,55,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,7
+5MS3205,n,4,5,55,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,6
+5MS3205,n,4,5,55,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,7
+5MS3205,n,4,5,55,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,9
+5MS3205,n,4,5,55,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,9
+5MS3205,n,4,5,55,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,10
+5MS3205,n,4,5,55,False,Which of the following names was a previous name of Equatorial Guinea?,Spanish Guinea,Nueva Guinea
+5MS3205,n,4,5,55,False,How is the largest geographical region of Equatorial Guinea called?,R??o Mun??,Malabo
+5MS3205,n,4,5,55,False,What kind of forest ecoregion does Equatorial Guinea not have?,Tropical grassland forests,Montane forests
+5MS3205,n,4,5,55,False,Which international newspaper reported that Equatorial Guinea's citizens are not benefiting from infrastructure improvements?,The Guardian,The Times
+5MS3205,n,4,5,55,False,Which language is used in the official currency of Equatorial Guinea?,French,Fang
+5MS3205,n,4,5,55,False,Where is the traditional demarcation line between Fang and inland ethnic groups?,All of these answers,Inland in the R??o Mun?? region
+5MS3205,n,4,5,55,False,Which percentage of the population comes from the Ndowe and Fernandinos ethnic groups (combined) in Equatorial Guinea?,Less than 10%,Between 10% and 20%
+5MS3205,n,4,5,55,False,What effect has oil extraction had in the population of Malabo?,Doubling,Tripling
+5MS3205,n,4,5,55,False,
+

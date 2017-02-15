@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+10F,s,2,10,171,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,10
+10F,s,2,10,171,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,8
+10F,s,2,10,171,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,9
+10F,s,2,10,171,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,13
+10F,s,2,10,171,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,7
+10F,s,2,10,171,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,15
+10F,s,2,10,171,False,Which island or islands is Vanuatu furthest from?,Tasmania,Tasmania
+10F,s,2,10,171,False,Which country claimed the Vanuatu islands first?,The Spanish,The Spanish
+10F,s,2,10,171,False,In which island is the capital Port Vila?,Efate,Espiritu Santo
+10F,s,2,10,171,False,The temperature of the ocean around Vanuatu is approximately,Between 22 centigrade and 28 centigrade,Between 22 centigrade and 28 centigrade
+10F,s,2,10,171,False,Vanuatu's Prime Minister is chosen:,At least three-quarters quorum in the parliament,By simple majority in the parliament
+10F,s,2,10,171,False,Which in the following list does not belong to the top four mainstays of the economy?,Meat processing,Offshore financial services
+10F,s,2,10,171,False,How many of the households in Vanuatu depend on subsistence fishing?,between 70% and 80%,between 70% and 80%
+10F,s,2,10,171,False,Which of the following factors is not a main deterrent for the development of Vanuatu?,Unstable political situation,natural disaster vulnerability
+10F,s,2,10,171,False,
+

@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+18MDM19,n,1,19,142,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,3
+18MDM19,n,1,19,142,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,2
+18MDM19,n,1,19,142,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,1
+18MDM19,n,1,19,142,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,19
+18MDM19,n,1,19,142,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,3
+18MDM19,n,1,19,142,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,1
+18MDM19,n,1,19,142,False,Which country does Laos not have a border with,Malaysia,Malaysia
+18MDM19,n,1,19,142,False,How many kingdoms was the Lan Xang kingdom was split into in the 18th century?,Three,Three
+18MDM19,n,1,19,142,False,What are the origins of Laos current government?,The Pathet Lao Guerrillas,The Siam Independence Movement
+18MDM19,n,1,19,142,False,In what type of landscape do the ethnically dominant people of Laos live?,Interior Lowlands,Foothills
+18MDM19,n,1,19,142,False,Which country is not in the top three trade nations with Laos?,Cambodia,Cambodia
+18MDM19,n,1,19,142,False,Who determines the government policies in Laos?,The Prime Minister Thongsing Thammavong,Everyone in this list
+18MDM19,n,1,19,142,False,The number of elected officials over the last twenty years has:,Increased to 132 members,Increased to 132 members
+18MDM19,n,1,19,142,False,What is lam?,A music style,A music style
+18MDM19,n,1,19,142,False,
+

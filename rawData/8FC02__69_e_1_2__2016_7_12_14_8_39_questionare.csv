@@ -1,0 +1,17 @@
+userId,type,country,orderNumber,experimentNumber,training, question,correctAnswer,userAnswer
+8FC02,e,1,2,69,False,Mental Demand - How mentally demanding was the task? Very Low - Very High,,7
+8FC02,e,1,2,69,False,Physical Demand - How physically demanding was the task? Very Low - Very High,,1
+8FC02,e,1,2,69,False,Temporal Demand - How hurried or rushed was the pace of the task? Very Low - Very High,,1
+8FC02,e,1,2,69,False,Performance - How successful were you in accomplishing what you were asked to do? Perfect - Failure),,5
+8FC02,e,1,2,69,False,Effort - How hard did you have to work to accomplish your level of performance? Very Low - Very High,,13
+8FC02,e,1,2,69,False,Frustration - How insecure discouraged irritated stressed and annoyed were you? Very Low - Very High,,1
+8FC02,e,1,2,69,False,Which country does Laos not have a border with,Malaysia,Malaysia
+8FC02,e,1,2,69,False,How many kingdoms was the Lan Xang kingdom was split into in the 18th century?,Three,Three
+8FC02,e,1,2,69,False,What are the origins of Laos current government?,The Pathet Lao Guerrillas,The Pathet Lao Guerrillas
+8FC02,e,1,2,69,False,In what type of landscape do the ethnically dominant people of Laos live?,Interior Lowlands,Interior Lowlands
+8FC02,e,1,2,69,False,Which country is not in the top three trade nations with Laos?,Cambodia,Vietnam
+8FC02,e,1,2,69,False,Who determines the government policies in Laos?,The Prime Minister Thongsing Thammavong,Everyone in this list
+8FC02,e,1,2,69,False,The number of elected officials over the last twenty years has:,Increased to 132 members,Increased to 132 members
+8FC02,e,1,2,69,False,What is lam?,A music style,A music style
+8FC02,e,1,2,69,False,
+
